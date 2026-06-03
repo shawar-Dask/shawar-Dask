@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shawar-Dask &color=e879f9&style=plastic&label=🍕&base=0&abbreviated=true" />
+</p>
 
 <!--
 **shawar-Dask/shawar-Dask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
